@@ -1,0 +1,10 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sindrem1 <54024047+sindrem1@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
